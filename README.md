@@ -1,4 +1,4 @@
-🧠 Predicción de Customer Churn con Redes Neuronales Fully Connected
+# 🧠 Predicción de Customer Churn con Redes Neuronales Fully Connected
 
 Notebook: fulllyconnected_02.ipynb
 
