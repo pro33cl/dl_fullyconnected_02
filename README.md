@@ -7,6 +7,7 @@ Notebook: fulllyconnected_02.ipynb
 Este notebook desarrolla un flujo completo para la predicción de Customer Churn combinando modelos tradicionales y Deep Learning. Se realiza preprocesamiento, estandarización, análisis estadístico, selección de características con RandomForest y entrenamiento de una red neuronal MLP con métricas avanzadas como ROC y AUC.
 
 📂 Contenidos del Notebook
+
 1️⃣ Carga y preprocesamiento de datos
 
 - Importación del dataset Customer Churn.csv.
